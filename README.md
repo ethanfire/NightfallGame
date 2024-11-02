@@ -34,18 +34,14 @@ Huge thank you and shout out to:
 - Custer Gilchrest for working on all of the immersive audio programming and sound design, and helping make our final presentation and semester at UF a blast :)
 
 ## Teaser Images
-**Bring the heat to your enemies!**
+**Bring the heat to your enemies!**<br/>
+<img width="553" alt="Fireball" src="https://github.com/user-attachments/assets/7175c724-43bd-4303-b18d-4d40203dc52d"><br/><br/>
 
-<img width="553" alt="Fireball" src="https://github.com/user-attachments/assets/7175c724-43bd-4303-b18d-4d40203dc52d">
+**Knock 'em dead with ground pound!**<br/>
+<img width="548" alt="Groundpound" src="https://github.com/user-attachments/assets/73b6602d-3a4b-4b8e-a94c-8759c9377079"><br/><br/>
 
-**Knock 'em dead with ground pound!**
+**When all else fails, slash away!**<br/>
+<img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a"><br/><br/>
 
-<img width="548" alt="Groundpound" src="https://github.com/user-attachments/assets/73b6602d-3a4b-4b8e-a94c-8759c9377079">
-
-**When all else fails, slash away!**
-
-<img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a">
-
-**Beware the Skeleton King!**
-
-<img width="595" alt="FinalBoss" src="https://github.com/user-attachments/assets/c8b0d814-1cfb-4dfa-93a1-09e29f6c4cab">
+**Beware the Skeleton King!**<br/>
+<img width="595" alt="FinalBoss" src="https://github.com/user-attachments/assets/c8b0d814-1cfb-4dfa-93a1-09e29f6c4cab"><br/><br/>
