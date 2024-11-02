@@ -9,7 +9,7 @@ This project is a 2D top-down action RPG where the player embarks on a heroic jo
 To play the game on Windows, simply download the repository and unzip. Then, run the executable file provided. No additional installations or configurations are required.
 Mac and Linux release coming soon!
 
-Note: Due to copyrighted assets in the game, the source files of the project cannot be uploaded.
+Note: Due to copyrighted assets in the game, the source files of the project cannot be uploaded. Please see our Credit section to support the artists.
 
 ## Features
 - **Engage** in strategic battles against four unique classes of skeletons.
