@@ -34,19 +34,17 @@ Huge thank you and shout out to:
 - Custer Gilchrest for working on all of the immersive audio programming and sound design, and helping make our final presentation and semester at UF a blast :)
 
 ## Teaser Images
-**Combat**
+**Bring the heat to your enemies!**
 
-Bring the heat to your enemies!
-
-<img width="563" alt="Fireball" src="https://github.com/user-attachments/assets/bf8c9d0f-9f26-4ac0-bb65-1b975c16d96d">
+<img width="553" alt="Fireball" src="https://github.com/user-attachments/assets/7175c724-43bd-4303-b18d-4d40203dc52d">
 
 
-Knock 'em dead with ground pound!
+**Knock 'em dead with ground pound!**
 
 <img width="548" alt="Groundpound" src="https://github.com/user-attachments/assets/73b6602d-3a4b-4b8e-a94c-8759c9377079">
 
 
-When all else fails, slash away!
+**When all else fails, slash away!**
 
 <img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a">
 
