@@ -26,12 +26,14 @@ As with the first game, revisiting and developing a full Nightfall game came wit
 
 ## Credit
 Huge thank you and shout out to:
-[finalbossblues](https://finalbossblues.com/) for developing the amazing character, enemies, and weapon sprites
 
-[CraftPix.net](https://craftpix.net/) for developing the outstanding tilesets
+- [finalbossblues](https://finalbossblues.com/) for developing the amazing character, enemies, and weapon sprites
 
-Custer Gilchrest for working on all of the immersive audio programming and sound design, and helping make our final presentation and semester at UF a blast :)
+- [CraftPix.net](https://craftpix.net/) for developing the outstanding tilesets
+
+- Custer Gilchrest for working on all of the immersive audio programming and sound design, and helping make our final presentation and semester at UF a blast :)
 
 ## Teaser Images
 **New Combat**
+
 <img width="592" alt="Fireball" src="https://github.com/user-attachments/assets/5e109c96-f82e-412c-ab32-9e76345c4e09">
