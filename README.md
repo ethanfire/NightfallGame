@@ -38,13 +38,14 @@ Huge thank you and shout out to:
 
 <img width="553" alt="Fireball" src="https://github.com/user-attachments/assets/7175c724-43bd-4303-b18d-4d40203dc52d">
 
-
 **Knock 'em dead with ground pound!**
 
 <img width="548" alt="Groundpound" src="https://github.com/user-attachments/assets/73b6602d-3a4b-4b8e-a94c-8759c9377079">
-
 
 **When all else fails, slash away!**
 
 <img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a">
 
+**Watch out for the boss fights!**
+
+<img width="595" alt="FinalBoss" src="https://github.com/user-attachments/assets/c8b0d814-1cfb-4dfa-93a1-09e29f6c4cab">
