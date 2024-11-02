@@ -46,6 +46,6 @@ Huge thank you and shout out to:
 
 <img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a">
 
-**Watch out for the boss fights!**
+**Beware the Skeleton King!**
 
 <img width="595" alt="FinalBoss" src="https://github.com/user-attachments/assets/c8b0d814-1cfb-4dfa-93a1-09e29f6c4cab">
