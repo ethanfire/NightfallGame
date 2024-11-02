@@ -35,13 +35,15 @@ Huge thank you and shout out to:
 
 ## Teaser Images
 **Combat**
-Bring the heat to you enemies!
+Bring the heat to your enemies!
 
-<img width="592" alt="Fireball" src="https://github.com/user-attachments/assets/5e109c96-f82e-412c-ab32-9e76345c4e09">
+<img width="563" alt="Fireball" src="https://github.com/user-attachments/assets/bf8c9d0f-9f26-4ac0-bb65-1b975c16d96d">
+
 
 Knock 'em dead with ground pound!
 
 <img width="581" alt="Groundpound" src="https://github.com/user-attachments/assets/97d3411e-3046-4145-b00a-164842115d84">
+
 
 When all else fails, slash away!
 
