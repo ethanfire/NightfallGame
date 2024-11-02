@@ -35,13 +35,18 @@ Huge thank you and shout out to:
 
 ## Teaser Images
 **Bring the heat to your enemies!**<br/>
-<img width="553" alt="Fireball" src="https://github.com/user-attachments/assets/7175c724-43bd-4303-b18d-4d40203dc52d"><br/><br/>
+<img width="553" alt="Fireball" src="https://github.com/user-attachments/assets/7175c724-43bd-4303-b18d-4d40203dc52d"><br/>
 
 **Knock 'em dead with ground pound!**<br/>
-<img width="548" alt="Groundpound" src="https://github.com/user-attachments/assets/73b6602d-3a4b-4b8e-a94c-8759c9377079"><br/><br/>
+<img width="548" alt="Groundpound" src="https://github.com/user-attachments/assets/73b6602d-3a4b-4b8e-a94c-8759c9377079"><br/>
 
 **When all else fails, slash away!**<br/>
-<img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a"><br/><br/>
+<img width="544" alt="Slash" src="https://github.com/user-attachments/assets/2a569d2c-9033-420a-88af-ba9435f1781a"><br/>
 
 **Beware the Skeleton King!**<br/>
-<img width="595" alt="FinalBoss" src="https://github.com/user-attachments/assets/c8b0d814-1cfb-4dfa-93a1-09e29f6c4cab"><br/><br/>
+<img width="595" alt="FinalBoss" src="https://github.com/user-attachments/assets/c8b0d814-1cfb-4dfa-93a1-09e29f6c4cab"><br/>
+
+**Explore vast new lands!**
+<img width="1231" alt="Grasslands" src="https://github.com/user-attachments/assets/a8f1a61b-09ae-41b9-9899-5e1d240ab3be">
+<img width="1227" alt="Swamp" src="https://github.com/user-attachments/assets/4d27beed-49f0-4c91-aee4-c587eb318e58">
+<img width="1229" alt="Desert" src="https://github.com/user-attachments/assets/a7e0eb05-0709-491b-8b44-fcefdf137f7d">
