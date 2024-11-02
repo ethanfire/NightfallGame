@@ -1,6 +1,3 @@
-# NightfallGame
-This is a game I made in Spring 2024 for my senior project at the University of Florida.
-
 # Game Development Senior Project - University of Florida
 
 Welcome to the repository for the game project, _Nightfall_, developed by Ethan Fiore in Spring 2024 for CIS4914 (Senior Project) at the University of Florida.
